@@ -1,4 +1,4 @@
-# Labelling_tool
+# Dataset labelling_tool
 Annotation tool that are freely avalible to use in the computer vision 
 
 Labelbox (https://labelbox.com/)
